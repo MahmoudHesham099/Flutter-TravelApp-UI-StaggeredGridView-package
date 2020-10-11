@@ -1,4 +1,4 @@
-# package with example: staggered_grid_view
+# Flutter-Travel-app-UI-with-StaggeredGridView-package
 
 staggered_grid_view package example
 
